@@ -29,16 +29,19 @@ body {
   color: var(--primary);
 }
 
-.text-accent {
-  color: var(--primary);
+.text-xsmall {
+  font-size: 0.75rem;
 }
-
 .font-secondary {
   font-family: var(--font-secondary);
 }
 
 .bg-section-secondary {
   background-color: var(--secondary);
+}
+
+a {
+  color: var(--text-accent);
 }
 
 #cover-image {
