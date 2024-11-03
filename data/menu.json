@@ -1,0 +1,459 @@
+{
+  "info": [
+    {
+      "name": "Baity Kitchen",
+      "description": "Open 7 days from 12pm | Walk-ins | 📍MCR 📍Sheffield | Culinary Resistance since '18🍉 | Find us between the river (Mersey) & the (Irish) sea",
+      "location": "Kargo MKT, Central Bay, Lowry Outlet, Salford M50 3AG",
+      "locationLink": "https://maps.app.goo.gl/3AnDbQEYu737pzHq8",
+      "website": "https://www.instagram.com/baitymcr/?hl=en",
+      "phone": "",
+      "coverImage": "cover.png",
+      "logoImage": "logo.png"
+    }
+  ],
+  "menu": [
+    {
+      "category": "Mini plates",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 68' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M41.3361 45.0668C44.9561 45.0668 47.8907 42.1355 47.8907 38.5195C47.8907 34.9035 44.9561 31.9722 41.3361 31.9722C37.7161 31.9722 34.7815 34.9035 34.7815 38.5195C34.7815 42.1355 37.7161 45.0668 41.3361 45.0668Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M28.0473 58.1611C31.6674 58.1611 34.602 55.2297 34.602 51.6137C34.602 47.9977 31.6674 45.0664 28.0473 45.0664C24.4273 45.0664 21.4927 47.9977 21.4927 51.6137C21.4927 55.2297 24.4273 58.1611 28.0473 58.1611Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M40.6447 47.0865L32.6035 39.0542C31.5247 37.9766 29.7756 37.9766 28.6968 39.0542L28.6965 39.0545C27.6177 40.1321 27.6177 41.8792 28.6965 42.9568L36.7377 50.9892C37.8165 52.0667 39.5656 52.0667 40.6444 50.9892L40.6447 50.9888C41.7235 49.9112 41.7235 48.1641 40.6447 47.0865Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M24.9407 57.3503L16.3163 65.9646L13.7613 63.4124L22.3852 54.7981' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M48.7851 28.511L57.409 19.8967L59.964 22.4489L51.3401 31.0632' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M54.0856 33.8126L45.992 25.728C44.9132 24.6504 43.1642 24.6504 42.0854 25.728L42.085 25.7284C41.0063 26.8059 41.0063 28.5531 42.085 29.6306L50.1787 37.7153C51.2574 38.7929 53.0065 38.7929 54.0853 37.7153L54.0856 37.7149C55.1644 36.6373 55.1644 34.8902 54.0856 33.8126Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M32.6103 27.2062C36.2303 27.2062 39.1649 24.2749 39.1649 20.6589C39.1649 17.0429 36.2303 14.1116 32.6103 14.1116C28.9903 14.1116 26.0557 17.0429 26.0557 20.6589C26.0557 24.2749 28.9903 27.2062 32.6103 27.2062Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M19.3216 40.3005C22.9416 40.3005 25.8762 37.3691 25.8762 33.7531C25.8762 30.1372 22.9416 27.2058 19.3216 27.2058C15.7016 27.2058 12.767 30.1372 12.767 33.7531C12.767 37.3691 15.7016 40.3005 19.3216 40.3005Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M31.9185 29.2262L23.8772 21.1938C22.7984 20.1162 21.0494 20.1162 19.9706 21.1938L19.9702 21.1942C18.8914 22.2718 18.8914 24.0189 19.9702 25.0965L28.0115 33.1288C29.0903 34.2064 30.8393 34.2064 31.9181 33.1288L31.9185 33.1285C32.9973 32.0509 32.9973 30.3038 31.9185 29.2262Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M16.2149 39.4894L7.59103 48.1037L5.03601 45.5516L13.6599 36.9373' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M40.0593 10.6502L48.6837 2.03589L51.2387 4.58807L42.6143 13.2024' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M45.3599 15.9523L37.2663 7.86765C36.1875 6.79006 34.4385 6.79006 33.3597 7.86765L33.3593 7.86801C32.2805 8.94559 32.2805 10.6927 33.3593 11.7703L41.4529 19.8549C42.5317 20.9325 44.2808 20.9325 45.3596 19.8549L45.3599 19.8546C46.4387 18.777 46.4387 17.0299 45.3599 15.9523Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "description": "",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "09.jpg",
+          "name": "Hummus",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£6"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": [
+            {
+              "name": "Confit sumac onions",
+              "price": "+ £1.5"
+            },
+            {
+              "name": "Chicken Shwarma",
+              "price": "+ £3"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "06.jpg",
+          "name": "Falafel",
+          "description": "Crunchy, herbed chickpeas fritters, served with tahina dip / 6 pieces",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£6"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "07.jpg",
+          "name": "Mutabbal",
+          "description": "Flame grilled smashed aubergine + smoked paprika + dibbs",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£7"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Fatoush salad",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£7"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": [
+            {
+              "name": "Chicken Shwarma",
+              "price": "+ £3.5"
+            },
+            {
+              "name": "Halloumi Croutons",
+              "price": "+ £3.5"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Manakish",
+          "description": "Stone baked taboun bread + Palestinian Zatar",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£8"
+            }
+          ],
+          "labels": ["Vegetarian"],
+          "addition": [
+            {
+              "name": "Halloumi",
+              "price": "+ £1"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Loaded Shwarma Fries",
+          "description": "Skin on fries loaded with chicken shwarma + house chicken fat mayo + herbs + crispy onions + sesame",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£11"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Loaded Gazan Fries",
+          "description": "Skin on fries loaded with chicken shwarma + spicy tomato chili & lime Gazan sauce + herbs + crispy onions + sesame",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£12.5"
+            }
+          ],
+          "labels": ["Spicy"],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "08.jpg",
+          "name": "Fiery Gazan Prawns",
+          "description": "4x tail-on king prawns + Gazan chili + herbs + lime + fragrant rice",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£10"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Fatteh",
+          "description": "Layers of Baharat Chicken on Halloumi croutons + garlic laban + pitta crisps. Served cold.",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£8"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Sumac Cauli + Aubergine",
+          "description": "Grilled cauliflower + aubergine + sumac + herbs + tahina.",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£8"
+            }
+          ],
+          "labels": ["Vegetarian"],
+          "addition": []
+        },
+
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Halloumi Fries",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£7"
+            }
+          ],
+          "labels": ["Vegetarian"],
+          "addition": []
+        }
+      ]
+    },
+    {
+      "category": "Mains",
+      "icon": "<svg width='24' height='24' viewBox='0 0 68 64' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M5.52493 33.3469H63.0205' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M8.87171 33.3469C8.87171 33.3469 8.26321 7.6416 34.2727 7.6416C60.2822 7.6416 60.2822 33.3469 60.2822 33.3469' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M65.915 39.1277H2.33438C2.4495 46.0104 4.35725 52.375 8.87171 57.9914L17.5388 56.1658C17.5388 56.1658 20.4251 55.5573 23.1634 56.3139C25.9016 57.0704 34.0342 58.4683 39.8973 56.4619C45.7439 54.4637 63.4152 41.1259 63.0205 40.1885' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M42.7918 40.0403C42.7918 40.0403 45.0696 40.953 45.0696 43.8393C45.0696 46.7256 41.2705 47.1861 41.2705 47.1861H27.8834' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M54.3534 40.0403L44.2144 45.8704' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M9.94071 39.1277C9.51311 45.2292 12.2514 50.8784 17.547 56.1658' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M32.2992 7.64154C32.2992 7.64154 32.4472 5.20752 34.7332 5.20752C37.0192 5.20752 37.1672 7.75667 37.1672 7.75667' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "description": "",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "01.jpg",
+          "name": "Musakhan",
+          "description": "Roasted baharat bone-in 1/2 chicken + taboun bread + confit sumac onions + parsley + browned almonds + minted cucumber laban",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£16"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "05.jpg",
+          "name": "Veg Musakhan",
+          "description": "Roasted aubergine, cauliflower + taboun bread + confit sumac onions + parsley + browned almonds + chickpea dakoos",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£16"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "02.jpg",
+          "name": "Mujadarra",
+          "description": "Cumin spiced rice and green lentils + spicy tomato and chickpea dakoos sauce + crunchy caramelised onions",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£15"
+            }
+          ],
+          "labels": ["Vegan"],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "04.jpg",
+          "name": "Maqloba",
+          "description": "Braised lamb + fragrant rice + toasted aubergine and browned cauliflower in the traditional Palestinian way; upside down. Browned almonds & parsley garnish + minted cucumber laban.",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£16"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        }
+      ]
+    },
+    {
+      "category": "Sides",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M61 37C61 50.8074 49.8085 62 36.0025 62C22.1965 62 11 50.8125 11 37H61Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M33 36C33 31.5801 36.5801 28 41 28C45.4199 28 49 31.5801 49 36' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M12.3174 36C12.3174 36 5.53642 31.9606 4.59559 29.5545C3.65476 27.1484 3.79989 23.9743 5.23615 22.482C6.67241 20.9897 9.14959 19.0697 12.3174 20.5085C15.4852 21.9473 18.0624 24.8395 19.2985 27.4352C20.5346 30.0309 20.9349 33.3022 20.98 34.2647C21.025 35.2271 20.98 35.9951 20.98 35.9951' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M8 25C11.9647 27.8937 14.9663 31.5636 17 36' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M19 25.5064C19 25.5064 19.6613 22.1264 21.7544 20.3783C23.9669 18.5333 27.6858 18.5478 29.4807 20.3783C31.4495 22.3927 32.6776 27.1335 31.5987 30.8234C30.5198 34.5134 29.8287 36 29.8287 36' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M24 36C25.3922 31.81 25.2731 27.4623 24 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M42 28.0663C42 28.0663 42.4915 25.1177 44.6015 24.167C46.7115 23.2163 49.2683 24.693 49.2683 24.693C49.2683 24.693 51.2343 21.257 54.2776 21.0157C57.3209 20.7744 60.1706 23.3562 60.2699 25.7933C60.3692 28.2304 58.5522 30.7109 58.5522 30.7109C58.5522 30.7109 60.7614 31.6181 60.96 33.0997C61.1586 34.5812 60.5529 36 60.5529 36' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "description": "",
+      "items": [
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Fries",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£3.5"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Za'tar Fries",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£4.6"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Khubuz",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£2"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Tahina dip",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£2"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Chicken fat mayo",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£2"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Olives",
+          "description": "",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£5"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M5 44.7059H59M5 44.7059V56H59V44.7059M5 44.7059V26.5373C5 26.5263 5.00888 26.5174 5.01981 26.5174H58.9801M59 44.7059V26.5373C59 26.5263 58.9912 26.5174 58.9801 26.5174M58.9801 26.5174C58.9912 26.5174 59 26.5081 59 26.4971L58.9973 26.4776L58.9831 25.8306C58.702 20.0926 54.9152 15.2788 49.7258 13.4971L49.604 13.5303L49.6243 14M58.9801 26.5174H5.13378C5.12285 26.5174 5.11401 26.5081 5.11401 26.4971C5.11401 26.4882 5.11971 26.4803 5.12805 26.4779L30.5788 18.6552L38.3247 16.5126C37.9764 15.7483 37.782 14.8971 37.782 14M49.6243 14C49.6243 10.6863 46.9735 8 43.7031 8C40.4331 8 37.782 10.6863 37.782 14M49.6243 14C49.6243 17.3137 46.9735 20 43.7031 20C40.4331 20 37.782 17.3137 37.782 14' stroke='currentcolor' stroke-width='4' stroke-linejoin='round'/></svg>",
+      "description": "",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "03.jpg",
+          "name": "Kunafa",
+          "description": "Cruncy K pastry + stretchy, sweet Palestinian cheese + rose syrup + pistachio.",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": "£10"
+            }
+          ],
+          "labels": [],
+          "addition": []
+        },
+        {
+          "image": true,
+          "imageUrl": "",
+          "name": "Baklawa",
+          "description": "Spiced nuts + filo + rose syrup | 3 pieces",
+          "calories": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "",
+              "price": ""
+            }
+          ],
+          "labels": [],
+          "addition": []
+        }
+      ]
+    }
+  ]
+}
